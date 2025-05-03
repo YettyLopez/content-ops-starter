@@ -41,6 +41,17 @@
                     "type": "Link"
                 },
                 {
+                    "type": "Link",
+                    "label": "Buy now",
+                    "altText": "Buy now",
+                    "url": "https://buy.stripe.com/28o9DxdI4alz1Q47st",
+                    "showIcon": true,
+                    "icon": "shoppingBag",
+                    "iconPosition": "left",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
                     "label": "Dropdown item",
                     "url": "/",
                     "icon": "arrowRight",
