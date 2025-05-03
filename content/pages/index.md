@@ -8,10 +8,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      ***I’m a licensed esthetician specializing in waxing, makeup, and laser
+      lipo treatments. My goal is to help you feel confident, glowing, and
+      absolutely magical in your skin!***
+
     actions:
       - label: Get started
         altText: ''
