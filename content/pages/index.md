@@ -41,6 +41,9 @@ sections:
       label: Skin Fairy Studios
       color: text-primary
       type: Badge
+      styles:
+        self:
+          fontStyle: italic
     elementId: ''
     colors: bg-light-fg-dark
     styles:
