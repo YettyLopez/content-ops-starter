@@ -16,7 +16,7 @@ sections:
     actions:
       - label: Book
         altText: ''
-        url: /
+        url: '/https://buy.stripe.com/8wMbLF5bydxL1Q47sv'
         showIcon: false
         icon: arrowRight
         iconPosition: right
