@@ -37,13 +37,6 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-    badge:
-      label: Skin Fairy Studios
-      color: text-primary
-      type: Badge
-      styles:
-        self:
-          fontStyle: italic
     elementId: ''
     colors: bg-light-fg-dark
     styles:
