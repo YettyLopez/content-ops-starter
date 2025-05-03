@@ -25,7 +25,7 @@ sections:
         type: Button
       - label: ''
         altText: ''
-        url: /
+        url: '/https://buy.stripe.com/8wMbLF5bydxL1Q47sv'
         showIcon: true
         icon: arrowRight
         iconPosition: right
