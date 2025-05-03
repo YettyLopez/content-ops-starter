@@ -7,7 +7,7 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >+
       ***I’m a licensed esthetician specializing in waxing, makeup, and laser
       lipo treatments. My goal is to help you feel confident, glowing, and
