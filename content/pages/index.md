@@ -137,7 +137,7 @@ sections:
         textAlign: center
     type: GenericSection
   - title:
-      text: Social Media Management
+      text: Social Media
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
