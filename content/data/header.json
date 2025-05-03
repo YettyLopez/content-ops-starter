@@ -29,6 +29,17 @@
             "type": "Link"
         },
         {
+            "type": "Link",
+            "label": "Instagram",
+            "altText": "Instagram",
+            "url": "/https://www.instagram.com/skinfairystudios?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+            "showIcon": true,
+            "icon": "instagram",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
             "label": "Dropdown",
             "altText": "Dropdown",
             "links": [
