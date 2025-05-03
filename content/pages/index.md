@@ -14,7 +14,7 @@ sections:
       absolutely magical in your skin!***
 
     actions:
-      - label: Get started
+      - label: Book
         altText: ''
         url: /
         showIcon: false
