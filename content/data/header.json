@@ -47,7 +47,7 @@
                     "url": "https://buy.stripe.com/28o9DxdI4alz1Q47st",
                     "showIcon": true,
                     "icon": "shoppingBag",
-                    "iconPosition": "left",
+                    "iconPosition": "right",
                     "style": "secondary",
                     "elementId": ""
                 },
